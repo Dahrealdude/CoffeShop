@@ -1,2 +1,2 @@
 # Coffee-Shop
-# CoffeShop
+# Built a responsive coffee shop using Html, Css and Javascript
